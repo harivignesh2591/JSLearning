@@ -4,3 +4,4 @@ exports.config = {
     specs: ['spec.js']
   }
   console.log("Test");
+  console.log("New Test");

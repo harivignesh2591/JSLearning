@@ -1,0 +1,19 @@
+{
+  "name": "jslearning",
+  "version": "1.0.0",
+  "description": "JS",
+  "main": "conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harivignesh2591/JSLearning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harivignesh2591/JSLearning/issues"
+  },
+  "homepage": "https://github.com/harivignesh2591/JSLearning#readme"
+}
